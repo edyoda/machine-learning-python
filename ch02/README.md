@@ -1,4 +1,4 @@
-Sebastian Raschka, 2015
+
 
 Python Machine Learning - Code Examples
 
